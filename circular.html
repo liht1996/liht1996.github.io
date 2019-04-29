@@ -9,18 +9,16 @@
     <script src="build/d3-ez.js"></script>
     <link rel="stylesheet" type="text/css" href="build/d3-ez.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
-    <!-- <style>
+    <style>
     div{display:inline}
-    </style> -->
+    </style>
   </head>
   <body>
     <div id='circularHeatChart'></div>
-    <!-- <b>This text is bold</b> -->
     <script type = "text/javascript">
 
-    d3.csv("data.csv", function(d) {
+    d3.csv("new.csv", function(d) {
         return {
-            id: d.INCIDENT_NUMBER,
             weekday: d.DAY_OF_WEEK,
             hour: +d.HOUR,
         };
