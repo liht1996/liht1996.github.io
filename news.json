@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "Date": "2020-09-20",
+            "Content": "The new homepage says 'Hello World'!"
+        },
+        {
+            "Date": "2020-09-07",
+            "Content": "Start my PhD study in <a href='http://vis.cse.ust.hk/' style='color:black'><u>HKUST VisLab</u></a> under supervision of <a href='http://huamin.org/' style='color:black'><u>Prof. Huamin Qu</u></a> "
+        }
+
+    ]
+}

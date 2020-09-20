@@ -1,0 +1,60 @@
+{
+    "data":{
+        "2020": [
+            {
+                "title": "Peer-inspired Student Performance Prediction in Interactive Online Question Pools with Graph Neural Network",
+                "booktitle": "Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM). <i>To Appear</i>.",
+                "authors": "<b>Haotian Li</b>, Huan Wei, Yong Wang, Yangqiu Song, Huamin Qu",
+                "links":{
+                    "pdf": "paper/peer-inspired.pdf",
+                    "preprint": "https://arxiv.org/abs/2008.01613"
+                },
+                "image":"image/peer-inspired.png"
+            },
+            {
+                "title": "Topology Density Map for Urban Data Visualization and Analysis",
+                "booktitle": "IEEE Transactions on Visualization and Computer Graphics (TVCG). <i>To Appear</i>. ",
+                "authors": "Zezheng Feng, <b>Haotian Li</b>, Wei Zeng, Shuang-Hua Yang, Huamin Qu",
+                "links":{
+                    "pdf": "paper/topology.pdf",
+                    "preprint": "https://arxiv.org/abs/2007.15828"
+                },
+                "image":"image/topology.png"
+            },
+            {
+                "title": "Predicting Student Performance in Interactive Online Question Pools Using Mouse Interaction Features",
+                "booktitle": "Proceedings of the 10th International Conference on Learning Analytics & Knowledge (LAK). 2020.",
+                "authors": "Huan Wei, <b>Haotian Li</b>, Meng Xia, Yong Wang, Huamin Qu",
+                "links":{
+                    "pdf": "paper/mouse-interaction.pdf",
+                    "preprint": "https://arxiv.org/abs/2001.03012",
+                    "paper": "https://dl.acm.org/doi/abs/10.1145/3375462.3375521"
+                },
+                "image":"image/mouse-interaction.png"
+            },
+            {
+                "title": "TradAO: A Visual Analytics System for Trading Algorithm Optimization",
+                "booktitle": "Proceedings of the IEEE Conference on Visual Analytics Science and Technology (VAST). <i>To Appear</i>.",
+                "authors": "Ka Wing Tsang, <b>Haotian Li</b>, Fuk Ming Lam, Yifan Mu, Yong Wang, Huamin Qu",
+                "links":{
+                    "pdf": "paper/tradao.pdf",
+                    "preprint": "https://arxiv.org/abs/2008.11319"
+                },
+                "image":"image/tradao.png"
+            }
+        ],
+
+        "Before 2019":[
+            {
+                "title": "PreserVis, a Visual Analytic System for Traffic and Pollution Patterns - Multi-Challenge Award for Compelling Synthesis of Information",
+                "booktitle": "Proceedings of the IEEE Conference on Visual Analytics Science and Technology (VAST). 2017.",
+                "authors": "Qiao Gu, Hang Yin, Lian Chen, <strong>Haotian Li</strong>, Chengzhong Liu, Xuanwu Yue, Huamin Qu",
+                "links":{
+                    "pdf": "paper/preservis.pdf",
+                    "paper": "https://ieeexplore.ieee.org/document/8585719"
+                },
+                "image":"image/preservis.png"
+            }
+        ]
+    }
+}
