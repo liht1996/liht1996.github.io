@@ -13,11 +13,12 @@
             },
             {
                 "title": "Topology Density Map for Urban Data Visualization and Analysis",
-                "booktitle": "IEEE Transactions on Visualization and Computer Graphics (TVCG). <i>To Appear</i>. ",
+                "booktitle": "IEEE Transactions on Visualization and Computer Graphics (TVCG).",
                 "authors": "Zezheng Feng, <b>Haotian Li</b>, Wei Zeng, Shuang-Hua Yang, Huamin Qu",
                 "links":{
                     "pdf": "paper/topology.pdf",
-                    "preprint": "https://arxiv.org/abs/2007.15828"
+                    "preprint": "https://arxiv.org/abs/2007.15828",
+                    "IEEE Xplore": "https://ieeexplore.ieee.org/document/9222248"
                 },
                 "image":"image/topology.png"
             },
