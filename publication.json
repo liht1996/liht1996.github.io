@@ -3,7 +3,7 @@
         "2020": [
             {
                 "title": "Peer-inspired Student Performance Prediction in Interactive Online Question Pools with Graph Neural Network",
-                "booktitle": "Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM).",
+                "booktitle": "Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM). 2020.",
                 "authors": "<b>Haotian Li</b>, Huan Wei, Yong Wang, Yangqiu Song, Huamin Qu",
                 "links":{
                     "pdf": "paper/peer-inspired.pdf",
@@ -14,7 +14,7 @@
             },
             {
                 "title": "Topology Density Map for Urban Data Visualization and Analysis",
-                "booktitle": "IEEE Transactions on Visualization and Computer Graphics (TVCG).",
+                "booktitle": "IEEE Transactions on Visualization and Computer Graphics (TVCG). <i>Early Access</i>.",
                 "authors": "Zezheng Feng, <b>Haotian Li</b>, Wei Zeng, Shuang-Hua Yang, Huamin Qu",
                 "links":{
                     "pdf": "paper/topology.pdf",
