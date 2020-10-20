@@ -3,11 +3,12 @@
         "2020": [
             {
                 "title": "Peer-inspired Student Performance Prediction in Interactive Online Question Pools with Graph Neural Network",
-                "booktitle": "Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM). <i>To Appear</i>.",
+                "booktitle": "Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM).",
                 "authors": "<b>Haotian Li</b>, Huan Wei, Yong Wang, Yangqiu Song, Huamin Qu",
                 "links":{
                     "pdf": "paper/peer-inspired.pdf",
-                    "preprint": "https://arxiv.org/abs/2008.01613"
+                    "preprint": "https://arxiv.org/abs/2008.01613",
+                    "ACM Library": "https://dl.acm.org/doi/10.1145/3340531.3412733"
                 },
                 "image":"image/peer-inspired.png"
             },
