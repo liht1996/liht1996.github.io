@@ -3,7 +3,7 @@
         "2020": [
             {
                 "title": "A Visual Analytics Approach to Facilitate the Proctoring of Online Exams",
-                "booktitle": "Proceedings of the 2021 ACM Conference on Human Factors in Computing Systems (CHI). 2021.",
+                "booktitle": "Proceedings of the 2021 ACM Conference on Human Factors in Computing Systems (CHI). <i>To Appear</i>.",
                 "authors": "<b>Haotian Li</b>, Min Xu, Yong Wang, Huan Wei, Huamin Qu",
                 "links":{
                     "pdf": "paper/online-proctoring.pdf"
