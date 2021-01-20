@@ -6,8 +6,9 @@
                 "booktitle": "Proceedings of the 2021 ACM Conference on Human Factors in Computing Systems (CHI). <i>To Appear</i>.",
                 "authors": "<b>Haotian Li</b>, Min Xu, Yong Wang, Huan Wei, Huamin Qu",
                 "links":{
-                    "pdf": "paper/online-proctoring.pdf",
-                    "GitHub": "https://github.com/HKUST-VISLab/Visual-analytics-approach-online-proctoring"
+                    "PDF": "paper/online-proctoring.pdf",
+                    "GitHub": "https://github.com/HKUST-VISLab/Visual-analytics-approach-online-proctoring",
+                    "Demo": "https://youtu.be/pibibrEmTp4"
                 },
                 "image":"image/online-proctoring.png"
             }
@@ -18,8 +19,8 @@
                 "booktitle": "Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM). 2020.",
                 "authors": "<b>Haotian Li</b>, Huan Wei, Yong Wang, Yangqiu Song, Huamin Qu",
                 "links":{
-                    "pdf": "paper/peer-inspired.pdf",
-                    "preprint": "https://arxiv.org/abs/2008.01613",
+                    "PDF": "paper/peer-inspired.pdf",
+                    "Preprint": "https://arxiv.org/abs/2008.01613",
                     "ACM Library": "https://dl.acm.org/doi/10.1145/3340531.3412733"
                 },
                 "image":"image/peer-inspired.png"
@@ -29,8 +30,8 @@
                 "booktitle": "IEEE Transactions on Visualization and Computer Graphics (TVCG). <i>Early Access</i>.",
                 "authors": "Zezheng Feng, <b>Haotian Li</b>, Wei Zeng, Shuang-Hua Yang, Huamin Qu",
                 "links":{
-                    "pdf": "paper/topology.pdf",
-                    "preprint": "https://arxiv.org/abs/2007.15828",
+                    "PDF": "paper/topology.pdf",
+                    "Preprint": "https://arxiv.org/abs/2007.15828",
                     "IEEE Xplore": "https://ieeexplore.ieee.org/document/9222248"
                 },
                 "image":"image/topology.png"
@@ -40,8 +41,8 @@
                 "booktitle": "Proceedings of the 10th International Conference on Learning Analytics & Knowledge (LAK). 2020.",
                 "authors": "Huan Wei, <b>Haotian Li</b>, Meng Xia, Yong Wang, Huamin Qu",
                 "links":{
-                    "pdf": "paper/mouse-interaction.pdf",
-                    "preprint": "https://arxiv.org/abs/2001.03012",
+                    "PDF": "paper/mouse-interaction.pdf",
+                    "Preprint": "https://arxiv.org/abs/2001.03012",
                     "ACM Library": "https://dl.acm.org/doi/abs/10.1145/3375462.3375521"
                 },
                 "image":"image/mouse-interaction.png"
@@ -51,8 +52,8 @@
                 "booktitle": "Proceedings of the IEEE Conference on Visual Analytics Science and Technology (VAST). <i>To Appear</i>.",
                 "authors": "Ka Wing Tsang, <b>Haotian Li</b>, Fuk Ming Lam, Yifan Mu, Yong Wang, Huamin Qu",
                 "links":{
-                    "pdf": "paper/tradao.pdf",
-                    "preprint": "https://arxiv.org/abs/2008.11319"
+                    "PDF": "paper/tradao.pdf",
+                    "Preprint": "https://arxiv.org/abs/2008.11319"
                 },
                 "image":"image/tradao.png"
             }
@@ -64,7 +65,7 @@
                 "booktitle": "Proceedings of the IEEE Conference on Visual Analytics Science and Technology (VAST). 2017.",
                 "authors": "Qiao Gu, Hang Yin, Lian Chen, <strong>Haotian Li</strong>, Chengzhong Liu, Xuanwu Yue, Huamin Qu",
                 "links":{
-                    "pdf": "paper/preservis.pdf",
+                    "PDF": "paper/preservis.pdf",
                     "IEEE Xplore": "https://ieeexplore.ieee.org/document/8585719"
                 },
                 "image":"image/preservis.png"
