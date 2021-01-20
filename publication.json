@@ -2,6 +2,15 @@
     "data":{
         "2020": [
             {
+                "title": "A Visual Analytics Approach to Facilitate the Proctoring of Online Exams",
+                "booktitle": "Proceedings of the 2021 ACM Conference on Human Factors in Computing Systems (CHI). 2021.",
+                "authors": "<b>Haotian Li</b>, Min Xu, Yong Wang, Huan Wei, Huamin Qu",
+                "links":{
+                    "pdf": "paper/online-proctoring.pdf"
+                },
+                "image":"image/online-proctoring.png"
+            },
+            {
                 "title": "Peer-inspired Student Performance Prediction in Interactive Online Question Pools with Graph Neural Network",
                 "booktitle": "Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM). 2020.",
                 "authors": "<b>Haotian Li</b>, Huan Wei, Yong Wang, Yangqiu Song, Huamin Qu",

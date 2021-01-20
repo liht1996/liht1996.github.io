@@ -1,6 +1,10 @@
 {
     "data": [
         {
+            "Date": "2021-01-20",
+            "Content": "Our paper on online proctoring is officially accepted to CHI2021! The preprint version is available <a href='https://haotian-li.com/paper/online-proctoring.pdf' target='_blank' style='color:black'><u>here</u></a>."
+        },
+        {
             "Date": "2020-12-13",
             "Content": "Our paper on online proctoring is conditionally accepted to CHI2021!"
         },
