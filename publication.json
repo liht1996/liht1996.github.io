@@ -13,7 +13,7 @@
                     "Demo": "https://youtu.be/pibibrEmTp4",
                     "Preview": "https://youtu.be/cXx9mP6-TRM"
                 },
-                "image":"image/online-proctoring.png"
+                "image":"image/online-proctoring-thumbnail.png"
             }
         ],
         "2020": [
@@ -38,7 +38,7 @@
                     "Preprint": "https://arxiv.org/abs/2007.15828",
                     "IEEE Xplore": "https://ieeexplore.ieee.org/document/9222248"
                 },
-                "image":"image/topology.png"
+                "image":"image/topology-thumbnail.png"
             },
             {
                 "title": "Predicting Student Performance in Interactive Online Question Pools Using Mouse Interaction Features",
@@ -72,7 +72,7 @@
                     "PDF": "paper/preservis.pdf",
                     "IEEE Xplore": "https://ieeexplore.ieee.org/document/8585719"
                 },
-                "image":"image/preservis.png"
+                "image":"image/preservis-thumbnail.png"
             }
         ]
     }
