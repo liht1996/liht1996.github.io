@@ -3,7 +3,7 @@
         "2021": [
             {
                 "title": "A Visual Analytics Approach to Facilitate the Proctoring of Online Exams",
-                "booktitle": "Proceedings of the 2021 ACM Conference on Human Factors in Computing Systems (CHI). <i>To Appear</i>.",
+                "booktitle": "Proceedings of the 2021 ACM Conference on Human Factors in Computing Systems (CHI21). <i>To Appear</i>.",
                 "authors": "<b>Haotian Li</b>, Min Xu, Yong Wang, Huan Wei, Huamin Qu",
                 "links":{
                     "Project Page": "project/online-proctoring.html",
@@ -19,7 +19,7 @@
         "2020": [
             {
                 "title": "Peer-inspired Student Performance Prediction in Interactive Online Question Pools with Graph Neural Network",
-                "booktitle": "Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM). 2020.",
+                "booktitle": "Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM20). 2020.",
                 "authors": "<b>Haotian Li</b>, Huan Wei, Yong Wang, Yangqiu Song, Huamin Qu",
                 "links":{
                     "PDF": "paper/peer-inspired.pdf",
@@ -31,7 +31,7 @@
             },
             {
                 "title": "Topology Density Map for Urban Data Visualization and Analysis",
-                "booktitle": "IEEE Transactions on Visualization and Computer Graphics (TVCG).",
+                "booktitle": "IEEE Transactions on Visualization and Computer Graphics (Proceedings of VAST 2020). 2021.",
                 "authors": "Zezheng Feng, <b>Haotian Li</b>, Wei Zeng, Shuang-Hua Yang, Huamin Qu",
                 "links":{
                     "PDF": "paper/topology.pdf",
@@ -42,7 +42,7 @@
             },
             {
                 "title": "Predicting Student Performance in Interactive Online Question Pools Using Mouse Interaction Features",
-                "booktitle": "Proceedings of the 10th International Conference on Learning Analytics & Knowledge (LAK). 2020.",
+                "booktitle": "Proceedings of the 10th International Conference on Learning Analytics & Knowledge (LAK20). 2020.",
                 "authors": "Huan Wei, <b>Haotian Li</b>, Meng Xia, Yong Wang, Huamin Qu",
                 "links":{
                     "PDF": "paper/mouse-interaction.pdf",
@@ -53,7 +53,7 @@
             },
             {
                 "title": "TradAO: A Visual Analytics System for Trading Algorithm Optimization",
-                "booktitle": "Proceedings of the IEEE Conference on Visual Analytics Science and Technology (VAST). <i>To Appear</i>.",
+                "booktitle": "Proceedings of IEEE VIS 2020 (short paper). <i>To Appear</i>.",
                 "authors": "Ka Wing Tsang, <b>Haotian Li</b>, Fuk Ming Lam, Yifan Mu, Yong Wang, Huamin Qu",
                 "links":{
                     "PDF": "paper/tradao.pdf",
@@ -66,7 +66,7 @@
         "Before 2019":[
             {
                 "title": "PreserVis, a Visual Analytic System for Traffic and Pollution Patterns - Multi-Challenge Award for Compelling Synthesis of Information",
-                "booktitle": "Proceedings of the IEEE Conference on Visual Analytics Science and Technology (VAST). 2017.",
+                "booktitle": "Proceedings of the 2017 IEEE Conference on Visual Analytics Science and Technology (VAST17). 2017.",
                 "authors": "Qiao Gu, Hang Yin, Lian Chen, <strong>Haotian Li</strong>, Chengzhong Liu, Xuanwu Yue, Huamin Qu",
                 "links":{
                     "PDF": "paper/preservis.pdf",
