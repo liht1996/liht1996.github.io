@@ -53,11 +53,12 @@
             },
             {
                 "title": "TradAO: A Visual Analytics System for Trading Algorithm Optimization",
-                "booktitle": "Proceedings of IEEE VIS 2020 (short paper). <i>To Appear</i>.",
+                "booktitle": "Proceedings of IEEE VIS 2020 (short paper).",
                 "authors": "Ka Wing Tsang, <b>Haotian Li</b>, Fuk Ming Lam, Yifan Mu, Yong Wang, Huamin Qu",
                 "links":{
                     "PDF": "paper/tradao.pdf",
-                    "Preprint": "https://arxiv.org/abs/2008.11319"
+                    "Preprint": "https://arxiv.org/abs/2008.11319",
+                    "IEEE Xplore": "https://ieeexplore.ieee.org/document/9331281"
                 },
                 "image":"image/tradao.png"
             }
