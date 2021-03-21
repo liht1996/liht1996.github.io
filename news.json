@@ -1,6 +1,10 @@
 {
     "data": [
         {
+            "Date": "2021-03-21",
+            "Content": "Our paper <i>Deep Colormap Extraction from Visualizations</i> is accepted to TVCG! The preprint version is available <a href='https://arxiv.org/abs/2103.00741' target='_blank' style='color:black'><u>here</u></a>."
+        },
+        {
             "Date": "2021-01-20",
             "Content": "Our paper on online proctoring is officially accepted to CHI2021! The preprint version is available <a href='paper/online-proctoring.pdf' target='_blank' style='color:black'><u>here</u></a>."
         },
