@@ -1,6 +1,10 @@
 {
     "data": [
         {
+            "Date": "2021-03-22",
+            "Content": "I start my visiting at Singapore Management University under the supervison of <a href='http://yong-wang.org/' target='_blank' style='color:black'><u>Prof. Yong Wang</u></a>"
+        },
+        {
             "Date": "2021-03-21",
             "Content": "Our paper <i>Deep Colormap Extraction from Visualizations</i> is accepted to TVCG! The preprint version is available <a href='https://arxiv.org/abs/2103.00741' target='_blank' style='color:black'><u>here</u></a>."
         },
