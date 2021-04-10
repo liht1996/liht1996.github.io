@@ -20,7 +20,8 @@
                 "booktitle": "IEEE Transactions on Visualization and Computer Graphics. <i>To Appear</i>.",
                 "authors": "Lin-Ping Yuan, Wei Zeng, Siwei Fu, Zhiliang Zeng, <b>Haotian Li</b>, Chi-Wing Fu, Huamin Qu",
                 "links":{
-                    "Preprint": "http://arxiv.org/abs/2101.07990"
+                    "Preprint": "http://arxiv.org/abs/2101.07990",
+                    "IEEE Xplore": "https://ieeexplore.ieee.org/document/9395231"
                 },
                 "image":"image/deepcolor-2-thumbnail.png"
             }
