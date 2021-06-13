@@ -8,10 +8,6 @@
                 "links":{
                     "Project Page": "project/online-proctoring.html",
                     "PDF": "paper/online-proctoring.pdf",
-                    "Preprint": "http://arxiv.org/abs/2101.07990",
-                    "GitHub": "https://github.com/HKUST-VISLab/Visual-analytics-approach-online-proctoring",
-                    "Preview": "https://youtu.be/jTcy7-zKhvQ",
-                    "Talk":"https://youtu.be/cVhG9KamMBc",
                     "ACM Library": "https://dl.acm.org/doi/10.1145/3411764.3445294"
                 },
                 "image":"image/online-proctoring-thumbnail.png"
@@ -21,7 +17,7 @@
                 "booktitle": "IEEE Transactions on Visualization and Computer Graphics. <i>To Appear</i>.",
                 "authors": "Lin-Ping Yuan, Wei Zeng, Siwei Fu, Zhiliang Zeng, <b>Haotian Li</b>, Chi-Wing Fu, Huamin Qu",
                 "links":{
-                    "Preprint": "https://arxiv.org/abs/2103.00741",
+                    "PDF": "https://arxiv.org/pdf/2103.00741.pdf",
                     "IEEE Xplore": "https://ieeexplore.ieee.org/document/9395231"
                 },
                 "image":"image/deepcolor-2-thumbnail.png"
@@ -34,7 +30,6 @@
                 "authors": "<b>Haotian Li</b>, Huan Wei, Yong Wang, Yangqiu Song, Huamin Qu",
                 "links":{
                     "PDF": "paper/peer-inspired.pdf",
-                    "Preprint": "https://arxiv.org/abs/2008.01613",
                     "Talk":"https://youtu.be/qt1G6vUJbwo",
                     "ACM Library": "https://dl.acm.org/doi/10.1145/3340531.3412733"
                 },
@@ -46,7 +41,6 @@
                 "authors": "Zezheng Feng, <b>Haotian Li</b>, Wei Zeng, Shuang-Hua Yang, Huamin Qu",
                 "links":{
                     "PDF": "paper/topology.pdf",
-                    "Preprint": "https://arxiv.org/abs/2007.15828",
                     "IEEE Xplore": "https://ieeexplore.ieee.org/document/9222248"
                 },
                 "image":"image/topology-thumbnail.png"
@@ -57,7 +51,6 @@
                 "authors": "Huan Wei, <b>Haotian Li</b>, Meng Xia, Yong Wang, Huamin Qu",
                 "links":{
                     "PDF": "paper/mouse-interaction.pdf",
-                    "Preprint": "https://arxiv.org/abs/2001.03012",
                     "ACM Library": "https://dl.acm.org/doi/abs/10.1145/3375462.3375521"
                 },
                 "image":"image/mouse-interaction.png"
@@ -68,7 +61,6 @@
                 "authors": "Ka Wing Tsang, <b>Haotian Li</b>, Fuk Ming Lam, Yifan Mu, Yong Wang, Huamin Qu",
                 "links":{
                     "PDF": "paper/tradao.pdf",
-                    "Preprint": "https://arxiv.org/abs/2008.11319",
                     "IEEE Xplore": "https://ieeexplore.ieee.org/document/9331281"
                 },
                 "image":"image/tradao.png"
