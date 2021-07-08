@@ -1,6 +1,14 @@
 {
     "data": [
         {
+            "Date": "2021-05-28",
+            "Content": "I will serve as a program committee member of CIKM2021."
+        },
+        {
+            "Date": "2021-05-07",
+            "Content": "I will attend and present our paper on <a href='project/online-proctoring.html' target='_blank' style='color:black'><u>online proctoring</u></a> at CHI2021. Video preview can be found <a href='https://youtu.be/jTcy7-zKhvQ' target='_blank' style='color:black'><u>here</u></a>."
+        },
+        {
             "Date": "2021-03-22",
             "Content": "I start my visiting at <a href='https://www.smu.edu.sg/' target='_blank' style='color:black'><u>Singapore Management University</u></a> under the supervision of <a href='http://yong-wang.org/' target='_blank' style='color:black'><u>Prof. Yong Wang</u></a>."
         },
@@ -15,15 +23,6 @@
         {
             "Date": "2020-10-20",
             "Content": "I will present at CIKM2020 in session 'Urban Computing' on Oct. 23rd."
-        },
-        {
-            "Date": "2020-09-20",
-            "Content": "My new homepage says 'Hello World'!"
-        },
-        {
-            "Date": "2020-09-07",
-            "Content": "Start my PhD study in <a href='http://vis.cse.ust.hk/' target='_blank' style='color:black'><u>HKUST VisLab</u></a> under the supervision of <a href='http://huamin.org/' target='_blank' style='color:black'><u>Prof. Huamin Qu</u></a> "
         }
-
     ]
 }
