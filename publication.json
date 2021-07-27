@@ -2,6 +2,16 @@
     "data":{
         "2021": [
             {
+                "title": "KG4Vis: A Knowledge Graph-Based Approach for Visualization Recommendation",
+                "booktitle": "IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE VIS 2021). <i>To Appear</i>.",
+                "authors": "<b>Haotian Li</b>, Yong Wang, Songheng Zhang, Yangqiu Song, Huamin Qu",
+                "links":{
+                    "Project Page": "https://kg4vis.github.io/",
+                    "PDF": "paper/kg4vis.pdf"
+                },
+                "image":"image/kg4vis-thumbnail.png"
+            },
+            {
                 "title": "A Visual Analytics Approach to Facilitate the Proctoring of Online Exams",
                 "booktitle": "Proceedings of the 2021 ACM Conference on Human Factors in Computing Systems (CHI21). 2021.",
                 "authors": "<b>Haotian Li</b>, Min Xu, Yong Wang, Huan Wei, Huamin Qu",
@@ -37,7 +47,7 @@
             },
             {
                 "title": "Topology Density Map for Urban Data Visualization and Analysis",
-                "booktitle": "IEEE Transactions on Visualization and Computer Graphics (Proceedings of VAST 2020). 2021.",
+                "booktitle": "IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE VAST 2020). 2021.",
                 "authors": "Zezheng Feng, <b>Haotian Li</b>, Wei Zeng, Shuang-Hua Yang, Huamin Qu",
                 "links":{
                     "PDF": "paper/topology.pdf",
@@ -57,7 +67,7 @@
             },
             {
                 "title": "TradAO: A Visual Analytics System for Trading Algorithm Optimization",
-                "booktitle": "Proceedings of IEEE VIS 2020 (short paper).",
+                "booktitle": "Proceedings of IEEE VIS 2020 (short paper). 2021.",
                 "authors": "Ka Wing Tsang, <b>Haotian Li</b>, Fuk Ming Lam, Yifan Mu, Yong Wang, Huamin Qu",
                 "links":{
                     "PDF": "paper/tradao.pdf",

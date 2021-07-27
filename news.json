@@ -1,6 +1,10 @@
 {
     "data": [
         {
+            "Date": "2021-07-27",
+            "Content": "Our paper on <a href='https://kg4vis.github.io/' target='_blank' style='color:black'><u>knowledge graph-based visualization recommendation</u></a> is accepted to VIS 2021! The preprint version is <a href='paper/kg4vis.pdf' target='_blank' style='color:black'><u>here</u></a>."
+        },
+        {
             "Date": "2021-05-28",
             "Content": "I will serve as a program committee member of CIKM2021."
         },
@@ -19,10 +23,6 @@
         {
             "Date": "2021-01-20",
             "Content": "Our paper on online proctoring is officially accepted to CHI2021! The preprint version is available <a href='paper/online-proctoring.pdf' target='_blank' style='color:black'><u>here</u></a>."
-        },
-        {
-            "Date": "2020-10-20",
-            "Content": "I will present at CIKM2020 in session 'Urban Computing' on Oct. 23rd."
         }
     ]
 }
