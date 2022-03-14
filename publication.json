@@ -1,13 +1,33 @@
 {
     "data":{
+        "2022": [
+            {
+                "title": "Structure-aware Visualization Retrieval",
+                "booktitle": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI 2022). <i>To Appear</i>.",
+                "authors": "<b>Haotian Li</b>, Yong Wang, Aoyu Wu, Huan Wei, Huamin Qu",
+                "links":{
+                    "PDF": "paper/structure-vis-retrieval.pdf"
+                },
+                "image":"image/structure-vis-retrieval.png"
+            },
+            {
+                "title": "Let Every Seat Be Perfect! A Case Study on Combining BIM and VR for Room Planning",
+                "booktitle": "Proceedings of the 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VR 2022). <i>To Appear</i>.",
+                "authors": "Wai Tong*, <b>Haotian Li</b>*, Huan Wei*, Liwenhan Xie*, Yanna Lin*, Huamin Qu (*: equal contribution)",
+                "links":{
+                    "PDF": "paper/vr-bim.pdf"
+                },
+                "image":"image/vr-bim.png"
+            }
+        ],
         "2021": [
             {
                 "title": "KG4Vis: A Knowledge Graph-Based Approach for Visualization Recommendation",
-                "booktitle": "IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE VIS 2021). <i>To Appear</i>.",
+                "booktitle": "IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE VIS 2021). (Best Paper Honorable Mention)",
                 "authors": "<b>Haotian Li</b>, Yong Wang, Songheng Zhang, Yangqiu Song, Huamin Qu",
                 "links":{
                     "Project Page": "https://kg4vis.github.io/",
-                    "PDF": "https://arxiv.org/pdf/2107.12548.pdf"
+                    "PDF": "paper/kg4vis.pdf"
                 },
                 "image":"image/kg4vis-thumbnail.png"
             },

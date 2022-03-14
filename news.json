@@ -1,6 +1,10 @@
 {
     "data": [
         {
+            "Date": "2022-03-14",
+            "Content": "Two full papers and one late-breaking work are accepted to CHI 2022 and one poster will appear in VR 2022!"
+        },
+        {
             "Date": "2021-07-27",
             "Content": "Our paper on <a href='https://kg4vis.github.io/' target='_blank' style='color:black'><u>knowledge graph-based visualization recommendation</u></a> is accepted to VIS 2021! The preprint version is <a href='paper/kg4vis.pdf' target='_blank' style='color:black'><u>here</u></a>."
         },
