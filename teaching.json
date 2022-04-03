@@ -1,6 +1,10 @@
 {
     "data": [
         {
+            "Date": "2021 Fall",
+            "Content": ["Teaching Assistant, COMP 2711 - Discrete Mathematical Tools for Computer Science,, HKUST"]
+        },
+        {
             "Date": "2021 Spring",
             "Content": ["Teaching Assistant, COMP 6311E - High Dimensional Data Management and Analytics, HKUST"]
         },
