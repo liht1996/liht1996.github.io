@@ -16,7 +16,8 @@
                 "booktitle": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI 2022). <i>To Appear</i>.",
                 "authors": "Aoyu Wu, Wai Tong, <b>Haotian Li</b>, Dominik Moritz, Yong Wang, Huamin Qu",
                 "links":{
-                    "PDF": "paper/computableviz.pdf"
+                    "PDF": "paper/computableviz.pdf",
+                    "Talk": "https://youtu.be/NQXaIwgHePM"
                 },
                 "image":"image/computableviz.png"
             },
@@ -25,7 +26,9 @@
                 "booktitle": "Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI 2022). <i>To Appear</i>.",
                 "authors": "Songheng Zhang, Yong Wang, <b>Haotian Li</b>, Wanyu Zhang",
                 "links":{
-                    "PDF": "paper/crowdfunding-insearch.pdf"
+                    "PDF": "paper/crowdfunding-insearch.pdf",
+                    "Talk": "https://youtu.be/NlX1M2w6Wu8",
+                    "Poster": "https://files.sigchi.org/conference/attachment/10072/content/73126/poster/fbd2a053-d3f6-d8c8-999f-50f4e3646048.pdf"
                 },
                 "image":"image/crowdfunding-insearch.png"
             },
@@ -34,7 +37,7 @@
                 "booktitle": "Proceedings of the 9th ACM Conference on Learning @ Scale (L@S 2022). <i>To Appear</i>.",
                 "authors": "Sean Tsung, Huan Wei, <b>Haotian Li</b>, Yong Wang, Meng Xia, Huamin Qu",
                 "links":{
-                    "PDF": ""
+                    "PDF": "paper/blocklens.pdf"
                 },
                 "image":"image/blocklens.png"
             },
@@ -43,7 +46,8 @@
                 "booktitle": "Proceedings of the 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VR 2022). <i>To Appear</i>.",
                 "authors": "Wai Tong*, <b>Haotian Li</b>*, Huan Wei*, Liwenhan Xie*, Yanna Lin*, Huamin Qu (*: equal contribution)",
                 "links":{
-                    "PDF": "paper/vr-bim.pdf"
+                    "PDF": "paper/vr-bim.pdf",
+                    "Slides": "https://docs.google.com/presentation/d/1ZgxrCjXOxNjvfELnNftzKX1qXjrY0DFnT2uaRAiZ1uQ/edit?usp=sharing"
                 },
                 "image":"image/vr-bim.png"
             }
