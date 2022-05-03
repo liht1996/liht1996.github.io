@@ -53,7 +53,7 @@
                     "Slides": "https://docs.google.com/presentation/d/1ZgxrCjXOxNjvfELnNftzKX1qXjrY0DFnT2uaRAiZ1uQ/edit?usp=sharing",
                     "IEEE Xplore": "https://ieeexplore.ieee.org/document/9757646"
                 },
-                "image":"image/vr-bim-2.png"
+                "image":"image/vr-bim.png"
             }
         ],
         "2021": [
@@ -137,7 +137,7 @@
             {
                 "title": "PreserVis, a Visual Analytic System for Traffic and Pollution Patterns - Multi-Challenge Award for Compelling Synthesis of Information",
                 "booktitle": "Proceedings of the 2017 IEEE Conference on Visual Analytics Science and Technology (VAST 2017). 2017.",
-                "authors": "Qiao Gu, Hang Yin, Lian Chen, <strong>Haotian Li</strong>, Chengzhong Liu, Xuanwu Yue, Huamin Qu",
+                "authors": "Qiao Gu, Hang Yin, Lian Chen, <b>Haotian Li</b>, Chengzhong Liu, Xuanwu Yue, Huamin Qu",
                 "links":{
                     "PDF": "paper/preservis.pdf",
                     "IEEE Xplore": "https://ieeexplore.ieee.org/document/8585719"
