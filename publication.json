@@ -37,10 +37,11 @@
             },
             {
                 "title": "BlockLens: Visual Analytics of Student Coding Behaviors in Block-Based Programming Environments",
-                "booktitle": "Proceedings of the 9th ACM Conference on Learning @ Scale (L@S 2022). <i>To Appear</i>.",
+                "booktitle": "Proceedings of the 9th ACM Conference on Learning @ Scale (L@S 2022).",
                 "authors": "Sean Tsung, Huan Wei, <b>Haotian Li</b>, Yong Wang, Meng Xia, Huamin Qu",
                 "links":{
-                    "PDF": "paper/blocklens.pdf"
+                    "PDF": "paper/blocklens.pdf",
+                    "ACM Library": "https://dl.acm.org/doi/10.1145/3491140.3528298"
                 },
                 "image":"image/blocklens.png"
             },
@@ -63,7 +64,8 @@
                 "authors": "<b>Haotian Li</b>, Yong Wang, Songheng Zhang, Yangqiu Song, Huamin Qu",
                 "links":{
                     "Project Page": "https://kg4vis.github.io/",
-                    "PDF": "paper/kg4vis.pdf"
+                    "PDF": "paper/kg4vis.pdf",
+                    "IEEE Xplore": "https://ieeexplore.ieee.org/document/9552844/"
                 },
                 "image":"image/kg4vis-thumbnail.png"
             },
