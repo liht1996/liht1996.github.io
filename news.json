@@ -1,6 +1,10 @@
 {
     "data": [
         {
+            "Date": "2022-06-14",
+            "Content": "I will take an intern in Microsoft Research Asia under the supervision of <a href='https://www.microsoft.com/en-us/research/people/wangyun/' target='_blank' style='color:black'><u>Dr. Yun Wang</u></a>."
+        },
+        {
             "Date": "2022-04-02",
             "Content": "Our paper <a href='https://programs.sigchi.org/chi/2022/program/content/68743' target='_blank' style='color:black'><u>Structure-aware Visualization Retrieval</u></a> receives CHI 2022 Honorable Mention Award!"
         },
