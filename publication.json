@@ -40,6 +40,8 @@
                 "booktitle": "Proceedings of the 24th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2022).",
                 "authors": "Ka Yan Fung, Zikai Alex Wen, <b>Haotian Li</b>, Xingbo Wang, Shenghui Song, and Huamin Qu",
                 "links":{
+                    "PDF": "paper/prescreening.pdf",
+                    "ACM Library": "https://dl.acm.org/doi/10.1145/3517428.3550361"
                 },
                 "image":"image/learning-disability-pre-screening.png"
             },
