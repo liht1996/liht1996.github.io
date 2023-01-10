@@ -1,6 +1,10 @@
 {
     "data": [
         {
+            "Date": "2023-01-09",
+            "Content": "I start my visiting at UC Berkeley with <a href='https://people.eecs.berkeley.edu/~adityagp/' target='_blank' style='color:black'><u>Prof. Aditya Parameswara</u></a>."
+        },
+        {
             "Date": "2022-10-07",
             "Content": "I receive Microsoft Research Asia Fellowship (i.e., Microsoft Research PhD Fellowship in Asia-Pacific area)! The announcement is available in <a href='https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/' target='_blank' style='color:black'><u>English</u></a> and <a href='https://www.msra.cn/zh-cn/news/features/2022-fellows' target='_blank' style='color:black'><u>Chinese</u></a>."
         },
