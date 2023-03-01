@@ -1,5 +1,24 @@
 {
     "data":{
+        "2023": [
+            {
+                "title": "Notable: On-the-fly Assistant for Data Storytelling in Computational Notebooks",
+                "booktitle": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023).",
+                "authors": "<b>Haotian Li</b>, Lu Ying, Haidong Zhang, Yingcai Wu, Huamin Qu, Yun Wang",
+                "links":{
+                },
+                "image":"image/notable.png"
+            },
+            {
+                "title": "Structure-aware Visualization Retrieval",
+                "booktitle": "IEEE Transactions on Visualization and Computer Graphics.",
+                "authors": "Yanna Lin, <b>Haotian Li</b>, Aoyu Wu, Yong Wang, Huamin Qu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2209.01599.pdf"
+                },
+                "image":"image/dminer.png"
+            }
+        ],
         "2022": [
             {
                 "title": "Structure-aware Visualization Retrieval",
