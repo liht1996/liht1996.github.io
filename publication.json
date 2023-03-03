@@ -6,15 +6,19 @@
                 "booktitle": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023).",
                 "authors": "<b>Haotian Li</b>, Lu Ying, Haidong Zhang, Yingcai Wu, Huamin Qu, Yun Wang",
                 "links":{
+                    "PDF": "paper/notable.pdf",
+                    "Demo Video": "https://youtu.be/xi0PgdOn28I",
+                    "Preview": "https://youtu.be/15__378ekyA"
                 },
                 "image":"image/notable.png"
             },
             {
-                "title": "Structure-aware Visualization Retrieval",
+                "title": "DMiner: Dashboard Design Mining and Recommendation",
                 "booktitle": "IEEE Transactions on Visualization and Computer Graphics.",
                 "authors": "Yanna Lin, <b>Haotian Li</b>, Aoyu Wu, Yong Wang, Huamin Qu",
                 "links":{
-                    "PDF": "https://arxiv.org/pdf/2209.01599.pdf"
+                    "PDF": "https://arxiv.org/pdf/2209.01599.pdf",
+                    "IEEE Xplore": "https://ieeexplore.ieee.org/document/10057994"
                 },
                 "image":"image/dminer.png"
             }
