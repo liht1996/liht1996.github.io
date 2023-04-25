@@ -1,6 +1,10 @@
 {
     "data": [
         {
+            "Date": "2023-04-18",
+            "Content": "AI is getting more powerful! But why AI is not a panacea for data workers? Check our interview on human-AI collaborative data storytelling <a href='https://arxiv.org/pdf/2304.08366' target='_blank' style='color:black'><u>here</u></a>!"
+        },
+        {
             "Date": "2023-03-01",
             "Content": "Our paper <i>Notable: On-the-fly Assistant for Data Storytelling in Computational Notebooks</i> is accepted to CHI 2023. See you in Hamburg!"
         },
