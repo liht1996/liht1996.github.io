@@ -1,6 +1,14 @@
 {
     "data": [
         {
+            "Date": "2023-07-19",
+            "Content": "Our paper <i>InkSight: Leveraging Sketch Interaction for Documenting Chart Findings in Computational Notebooks</i> is accepted to VIS 2023. Check the pre-print <a href='https://arxiv.org/pdf/2307.07922.pdf' target='_blank' style='color:black'><u>here</u></a>."
+        },
+        {
+            "Date": "2023-06-12",
+            "Content": "I receive HKUST RedBird Academic Excellence Award for the second time!"
+        },
+        {
             "Date": "2023-04-18",
             "Content": "AI is getting more powerful! But why AI is not a panacea for data workers? Check our interview on human-AI collaborative data storytelling <a href='https://arxiv.org/pdf/2304.08366' target='_blank' style='color:black'><u>here</u></a>!"
         },
