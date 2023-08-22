@@ -31,6 +31,24 @@
                     "IEEE Xplore": "https://ieeexplore.ieee.org/document/10057994"
                 },
                 "image":"image/dminer.png"
+            },
+            {
+                "title": "Knowledge Compass: A Question Answering System Guiding Students with Follow-Up Question Recommendations",
+                "booktitle": "Adjunct Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST 2023). To Appear.",
+                "authors": "Rui Sheng, Leni Yang, <b>Haotian Li</b>, Yan Luo, Ziyang Xu, Zhilan Zhou, David Gotz, Huamin Qu",
+                "links":{
+                    "PDF": "paper/knowledge-compass.pdf"
+                },
+                "image":"image/knowledge-compass.png"
+            },
+            {
+                "title": "Visualizing Spreadsheet Formula Graphs Compactly.",
+                "booktitle": "Proceedings of the VLDB Endowment (VLDB 2023). To Appear.",
+                "authors": "Fanchao Chen, Dixin Tang, <b>Haotian Li</b>, Aditya G. Parameswaran",
+                "links":{
+                    "PDF": "paper/taco-demo.pdf"
+                },
+                "image":"image/taco-demo.png"
             }
         ],
         "2022": [
