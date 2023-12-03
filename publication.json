@@ -15,10 +15,11 @@
             },
             {
                 "title": "InkSight: Leveraging Sketch Interaction for Documenting Chart Findings in Computational Notebooks",
-                "booktitle": "IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE VIS 2023). To Appear.",
+                "booktitle": "IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE VIS 2023).",
                 "authors": "Yanna Lin, <b>Haotian Li</b>, Leni Yang, Aoyu Wu, Huamin Qu",
                 "links":{
-                    "PDF": "https://arxiv.org/pdf/2307.07922.pdf"
+                    "PDF": "https://arxiv.org/pdf/2307.07922.pdf",
+                    "IEEE Xplore": "https://ieeexplore.ieee.org/document/10296056/"
                 },
                 "image":"image/inksight.png"
             },
@@ -44,10 +45,11 @@
             },
             {
                 "title": "Knowledge Compass: A Question Answering System Guiding Students with Follow-Up Question Recommendations",
-                "booktitle": "Adjunct Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST 2023). To Appear.",
+                "booktitle": "Adjunct Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST 2023).",
                 "authors": "Rui Sheng, Leni Yang, <b>Haotian Li</b>, Yan Luo, Ziyang Xu, Zhilan Zhou, David Gotz, Huamin Qu",
                 "links":{
-                    "PDF": "paper/knowledge-compass.pdf"
+                    "PDF": "paper/knowledge-compass.pdf",
+                    "ACM Library": "https://dl.acm.org/doi/10.1145/3586182.3615785"
                 },
                 "image":"image/knowledge-compass.png"
             },
