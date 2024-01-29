@@ -20,7 +20,7 @@
                     "PDF": "",
                     "Browser": "https://vis-vaid.github.io/"
                 },
-                "image":"image/optimuse.png"
+                "image":"image/vaid.png"
             },
             {
                 "title": "Understanding Nonlinear Collaboration between Human and AI Agents: A Co-design Framework for Creative Design.",
@@ -30,7 +30,7 @@
                     "PDF": "https://arxiv.org/pdf/2401.07312",
                     "ArXiv": "https://arxiv.org/abs/2401.07312"
                 },
-                "image":"image/hai-survey.png"
+                "image":"image/optimuse.png"
             }
         ],
 
