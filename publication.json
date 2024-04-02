@@ -255,7 +255,6 @@
             }
         ],
         "Preprint":[
-            
             {
                 "title": "Why is AI not a Panacea for Data Workers? An Interview Study on Human-AI Collaboration in Data Storytelling",
                 "booktitle": "ArXiv",
@@ -276,6 +275,16 @@
                     "Demo": "https://spade-beta.streamlit.app/"
                 },
                 "image":"image/spade.png"
+            },
+            {
+                "title": "Reviving Static Charts into Live Charts",
+                "booktitle": "ArXiv",
+                "authors": "Lu Ying, Yun Wang, <b>Haotian Li</b>, Shuguang Dou, Haidong Zhang, Xinyang Jiang, Huamin Qu, Yingcai Wu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2309.02967",
+                    "ArXiv": "https://arxiv.org/abs/2309.02967"
+                },
+                "image":"image/livechart.png"
             }
         ],
         "Before 2019":[
