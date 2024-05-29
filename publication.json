@@ -55,7 +55,7 @@
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2309.02967",
                     "ArXiv": "https://arxiv.org/abs/2309.02967",
-                    "IEEE Xplore": ""
+                    "IEEE Xplore": "https://ieeexplore.ieee.org/document/10530507"
                 },
                 "image":"image/livechart.png"
             }
@@ -115,7 +115,7 @@
                 "image":"image/knowledge-compass.png"
             },
             {
-                "title": "Visualizing Spreadsheet Formula Graphs Compactly.",
+                "title": "Visualizing Spreadsheet Formula Graphs Compactly",
                 "booktitle": "Proceedings of the VLDB Endowment (VLDB 2023).",
                 "authors": "Fanchao Chen, Dixin Tang, <b>Haotian Li</b>, Aditya G. Parameswaran",
                 "links":{
