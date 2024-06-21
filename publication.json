@@ -15,6 +15,17 @@
                 "image":"image/hai-survey.png"
             },
             {
+                "title": "SPADE: Synthesizing Assertions for Large Language Model Pipelines",
+                "booktitle": "Proceedings of the VLDB Endowment (VLDB 2024).",
+                "authors": "Shreya Shankar, <b>Haotian Li</b>, Parth Asawa, Madelon Hulsebos, Yiming Lin, J.D. Zamfirescu-Pereira, Harrison Chase, Will Fu-Hinthorn, Aditya G. Parameswaran, Eugene Wu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2401.03038",
+                    "ArXiv": "https://arxiv.org/abs/2401.03038",
+                    "Demo": "https://spade-beta.streamlit.app/"
+                },
+                "image":"image/spade.png"
+            },
+            {
                 "title": "VAID: Indexing View Designs in Visual Analytics System",
                 "booktitle": "Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024).",
                 "authors": "Lu Ying, Aoyu Wu, <b>Haotian Li</b>, Zikun Deng, Ji Lan, Jiang Wu, Yong Wang, Huamin Qu, Dazhen Deng, Yingcai Wu",
@@ -279,17 +290,6 @@
                     "ArXiv": "https://arxiv.org/abs/2304.08366"
                 },
                 "image":"image/hai-interview.png"
-            },
-            {
-                "title": "SPADE: Synthesizing Assertions for Large Language Model Pipelines",
-                "booktitle": "ArXiv",
-                "authors": "Shreya Shankar, <b>Haotian Li</b>, Parth Asawa, Madelon Hulsebos, Yiming Lin, J.D. Zamfirescu-Pereira, Harrison Chase, Will Fu-Hinthorn, Aditya G. Parameswaran, Eugene Wu",
-                "links":{
-                    "PDF": "https://arxiv.org/pdf/2401.03038",
-                    "ArXiv": "https://arxiv.org/abs/2401.03038",
-                    "Demo": "https://spade-beta.streamlit.app/"
-                },
-                "image":"image/spade.png"
             }
         ],
         "Before 2019":[
