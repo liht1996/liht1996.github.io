@@ -2,7 +2,7 @@
     "data": [
         {
             "Date": "2024-06-21",
-            "Content": "Our paper <i class='fa-solid fa-spade'></i> SPADE on automatic assesertion generation for LLMs is accepted at VLDB 2024! Check the pre-print <a href='https://arxiv.org/pdf/2401.03038' target='_blank' style='color:black'><u>here</u></a>."
+            "Content": "Our paper <span>&#9824;</span> SPADE on automatic assesertion generation for LLMs is accepted at VLDB 2024! Check the pre-print <a href='https://arxiv.org/pdf/2401.03038' target='_blank' style='color:black'><u>here</u></a>."
         },
         {
             "Date": "2024-04-26",
