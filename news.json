@@ -1,6 +1,18 @@
 {
     "data": [
         {
+            "Date": "2024-08-30",
+            "Content": "I join <a href='https://www.microsoft.com/en-us/research/group/social-computing-beijing/' target='_blank' style='color:black'><u>Social Computing Group</u></a> at Microsoft Research Asia as a researcher!"
+        },
+        {
+            "Date": "2024-07-22",
+            "Content": "I have successfully defended my thesis: Bridging Data Analysis and Storytelling with Human-AI Collaborative Tools! Many thanks to my advisor, Prof. Huamin Qu, all committee members, my collaborators, and friends!"
+        },
+        {
+            "Date": "2024-07-08",
+            "Content": "I receive HKUST RedBird Academic Excellence Award for the third time!"
+        },
+        {
             "Date": "2024-06-21",
             "Content": "Our paper <span>&#9824;</span> SPADE on automatic assesertion generation for LLMs is accepted at VLDB 2024! Check the pre-print <a href='https://arxiv.org/pdf/2401.03038' target='_blank' style='color:black'><u>here</u></a>."
         },

@@ -15,13 +15,26 @@
                 "image":"image/hai-survey.png"
             },
             {
-                "title": "SPADE: Synthesizing Assertions for Large Language Model Pipelines",
+                "title": "Data Playwright: Authoring Data Videos with Annotated Narration",
+                "booktitle": "IEEE Transactions on Visualization and Computer Graphics. <i>To Appear.</i>",
+                "authors": "Leixian Shen, <b>Haotian Li</b>, Yun Wang, Tianqi Luo, Yuyu Luo, Huamin Qu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2410.03093",
+                    "ArXiv": "https://arxiv.org/abs/2410.03093",
+                    "IEEE Xplore": "",
+                    "Project Page": "https://datavideos.github.io/Data-Playwright/"
+                },
+                "image":"image/data-playwright.png"
+            },
+            {
+                "title": "SPADE: Synthesizing Data Quality Assertions for Large Language Model Pipelines",
                 "booktitle": "Proceedings of the VLDB Endowment (VLDB 2024).",
                 "authors": "Shreya Shankar, <b>Haotian Li</b>, Parth Asawa, Madelon Hulsebos, Yiming Lin, J.D. Zamfirescu-Pereira, Harrison Chase, Will Fu-Hinthorn, Aditya G. Parameswaran, Eugene Wu",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2401.03038",
                     "ArXiv": "https://arxiv.org/abs/2401.03038",
-                    "Demo": "https://spade-beta.streamlit.app/"
+                    "Demo": "https://spade-beta.streamlit.app/",
+                    "PVLDB": "https://www.vldb.org/pvldb/volumes/17/paper/SPADE%3A%20Synthesizing%20Data%20Quality%20Assertions%20for%20Large%20Language%20Model%20Pipelines"
                 },
                 "image":"image/spade.png"
             },
@@ -69,6 +82,26 @@
                     "IEEE Xplore": "https://ieeexplore.ieee.org/document/10530507"
                 },
                 "image":"image/livechart.png"
+            },
+            {
+                "title": "From Data to Story: Towards Automatic Animated Data Video Creation with LLM-based Multi-Agent Systems",
+                "booktitle": "Proceedings of the IEEE VIS 2024 Workshop on Data Storytelling in an Era of Generative AI",
+                "authors": "Leixian Shen, <b>Haotian Li</b>, Yun Wang, Huamin Qu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2408.03876",
+                    "ArXiv": "https://arxiv.org/abs/2408.03876"
+                },
+                "image":"image/data-director.png"
+            },
+            {
+                "title": "Constraint Representation towards Precise Data-driven Storytelling",
+                "booktitle": "Proceedings of the IEEE VIS 2024 Workshop on Data Storytelling in an Era of Generative AI",
+                "authors": "Yu-Zhe Shi, <b>Haotian Li</b>, Lecheng Ruan, Huamin Qu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2410.07535",
+                    "ArXiv": "https://arxiv.org/abs/2410.07535"
+                },
+                "image":"image/constraint.png"
             }
         ],
 
@@ -290,6 +323,26 @@
                     "ArXiv": "https://arxiv.org/abs/2304.08366"
                 },
                 "image":"image/hai-interview.png"
+            },
+            {
+                "title": "JailbreakHunter: A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets",
+                "booktitle": "ArXiv",
+                "authors": "Zhihua Jin, Shiyi Liu, <b>Haotian Li</b>, Xun Zhao, Huamin Qu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2407.03045",
+                    "ArXiv": "https://arxiv.org/abs/2407.03045"
+                },
+                "image":"image/jailbreakhunter.png"
+            },
+            {
+                "title": "Narrative Player: Reviving Data Narratives with Visuals",
+                "booktitle": "ArXiv",
+                "authors": "Zekai Shao, Leixian Shen, <b>Haotian Li</b>, Yi Shan, Huamin Qu, Yun Wang, Siming Chen",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2410.03268",
+                    "ArXiv": "https://arxiv.org/abs/2410.03268"
+                },
+                "image":"image/narrative-player.png"
             }
         ],
         "Before 2019":[
