@@ -1,5 +1,62 @@
 {
     "data":{
+        "2025":[
+            {
+                "title": "Understanding Screenwriters' Practices, Attitudes, and Future Expectations in Human-AI Co-Creation",
+                "booktitle": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI 2025).",
+                "authors": "Yuying Tang, <b>Haotian Li</b>, Minghe Lan, Xiaojuan Ma, Huamin Qu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2502.16153",
+                    "ArXiv": "https://arxiv.org/abs/2502.16153",
+                    "ACM Library":""
+                },
+                "image":"image/screenwriting1.png"
+            },
+            {
+                "title": "Reflecting on Design Paradigms of Animated Data Video Tools",
+                "booktitle": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI 2025).",
+                "authors": "Leixian Shen, <b>Haotian Li</b>, Yun Wang, Huamin Qu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2502.04801",
+                    "ArXiv": "https://arxiv.org/abs/2502.04801",
+                    "ACM Library":""
+                },
+                "image":"image/data-video-survey.png"
+            },
+            {
+                "title": "InterLink: Linking Text with Code and Output in Computational Notebooks",
+                "booktitle": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI 2025).",
+                "authors": "Yanna Lin, Leni Yang, <b>Haotian Li</b>, Huamin Qu, Dominik Moritz",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2502.16114",
+                    "ArXiv": "https://arxiv.org/abs/2502.16114",
+                    "ACM Library":""
+                },
+                "image":"image/interlink.png"
+            },
+            {
+                "title": "Xavier: Toward Better Coding Assistance in Authoring Tabular Data Wrangling Scripts",
+                "booktitle": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI 2025).",
+                "authors": "Yunfan Zhou, Xiwen Cai, Qiming Shi, Yanwei Huang, <b>Haotian Li</b>, Huamin Qu, Di Weng, Yingcai Wu",
+                "links":{
+                    "PDF": "",
+                    "ArXiv": "",
+                    "ACM Library":""
+                },
+                "image":"image/xavier.png"
+            },
+            {
+                "title": "Narrative Player: Reviving Data Narratives with Visuals",
+                "booktitle": "IEEE Transactions on Visualization and Computer Graphics.",
+                "authors": "Zekai Shao, Leixian Shen, <b>Haotian Li</b>, Yi Shan, Huamin Qu, Yun Wang, Siming Chen",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2410.03268",
+                    "ArXiv": "https://arxiv.org/abs/2410.03268",
+                    "IEEE Xplore":"https://ieeexplore.ieee.org/document/10843313/"
+                },
+                "image":"image/narrative-player.png"
+            }
+        ],
         "2024":[
             {
                 "title": "Where Are We So Far? Understanding Data Storytelling Tools from the Perspective of Human-AI Collaboration",
@@ -15,13 +72,23 @@
                 "image":"image/hai-survey.png"
             },
             {
+                "title": "Inferring Visualization Intent from Conversation",
+                "booktitle": "Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024).",
+                "authors": "<b>Haotian Li</b>*, Nithin Chalapathi*, Huamin Qu, Alvin Cheung, Aditya G Parameswaran (*: equal contribution)",
+                "links":{
+                    "PDF": "paper/lunar.pdf",
+                    "ACM Library": "https://dl.acm.org/doi/abs/10.1145/3627673.3679589"
+                },
+                "image":"image/lunar.png"
+            },
+            {
                 "title": "Data Playwright: Authoring Data Videos with Annotated Narration",
-                "booktitle": "IEEE Transactions on Visualization and Computer Graphics. <i>To Appear.</i>",
+                "booktitle": "IEEE Transactions on Visualization and Computer Graphics.",
                 "authors": "Leixian Shen, <b>Haotian Li</b>, Yun Wang, Tianqi Luo, Yuyu Luo, Huamin Qu",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2410.03093",
                     "ArXiv": "https://arxiv.org/abs/2410.03093",
-                    "IEEE Xplore": "",
+                    "IEEE Xplore": "https://ieeexplore.ieee.org/document/10720675/",
                     "Project Page": "https://datavideos.github.io/Data-Playwright/"
                 },
                 "image":"image/data-playwright.png"
@@ -89,7 +156,8 @@
                 "authors": "Leixian Shen, <b>Haotian Li</b>, Yun Wang, Huamin Qu",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2408.03876",
-                    "ArXiv": "https://arxiv.org/abs/2408.03876"
+                    "ArXiv": "https://arxiv.org/abs/2408.03876",
+                    "IEEE Xplore":"https://ieeexplore.ieee.org/document/10766492/"
                 },
                 "image":"image/data-director.png"
             },
@@ -99,7 +167,8 @@
                 "authors": "Yu-Zhe Shi, <b>Haotian Li</b>, Lecheng Ruan, Huamin Qu",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2410.07535",
-                    "ArXiv": "https://arxiv.org/abs/2410.07535"
+                    "ArXiv": "https://arxiv.org/abs/2410.07535",
+                    "IEEE Xplore":"https://ieeexplore.ieee.org/document/10766486/"
                 },
                 "image":"image/constraint.png"
             }
@@ -315,14 +384,14 @@
         ],
         "Preprint":[
             {
-                "title": "Why is AI not a Panacea for Data Workers? An Interview Study on Human-AI Collaboration in Data Storytelling",
+                "title": "Composing Data Stories with Meta Relations",
                 "booktitle": "ArXiv",
-                "authors": "<b>Haotian Li</b>, Yun Wang, Q. Vera Liao, Huamin Qu",
+                "authors": "<b>Haotian Li</b>, Lu Ying, Leixian Shen, Yun Wang, Yingcai Wu, Huamin Qu",
                 "links":{
-                    "PDF": "https://arxiv.org/pdf/2304.08366",
-                    "ArXiv": "https://arxiv.org/abs/2304.08366"
+                    "PDF": "https://arxiv.org/pdf/2501.03603",
+                    "ArXiv": "https://arxiv.org/abs/2501.03603"
                 },
-                "image":"image/hai-interview.png"
+                "image":"image/remex.png"
             },
             {
                 "title": "JailbreakHunter: A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets",
@@ -333,16 +402,6 @@
                     "ArXiv": "https://arxiv.org/abs/2407.03045"
                 },
                 "image":"image/jailbreakhunter.png"
-            },
-            {
-                "title": "Narrative Player: Reviving Data Narratives with Visuals",
-                "booktitle": "ArXiv",
-                "authors": "Zekai Shao, Leixian Shen, <b>Haotian Li</b>, Yi Shan, Huamin Qu, Yun Wang, Siming Chen",
-                "links":{
-                    "PDF": "https://arxiv.org/pdf/2410.03268",
-                    "ArXiv": "https://arxiv.org/abs/2410.03268"
-                },
-                "image":"image/narrative-player.png"
             }
         ],
         "Before 2019":[
