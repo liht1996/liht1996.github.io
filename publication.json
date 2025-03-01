@@ -384,6 +384,16 @@
         ],
         "Preprint":[
             {
+                "title": "Why is AI not a Panacea for Data Workers? An Interview Study on Human-AI Collaboration in Data Storytelling",
+                "booktitle": "ArXiv",
+                "authors": "<b>Haotian Li</b>, Yun Wang, Q. Vera Liao, Huamin Qu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2304.08366",
+                    "ArXiv": "https://arxiv.org/abs/2304.08366"
+                },
+                "image":"image/hai-interview.png"
+            },
+            {
                 "title": "Composing Data Stories with Meta Relations",
                 "booktitle": "ArXiv",
                 "authors": "<b>Haotian Li</b>, Lu Ying, Leixian Shen, Yun Wang, Yingcai Wu, Huamin Qu",
