@@ -39,8 +39,8 @@
                 "booktitle": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI 2025).",
                 "authors": "Yunfan Zhou, Xiwen Cai, Qiming Shi, Yanwei Huang, <b>Haotian Li</b>, Huamin Qu, Di Weng, Yingcai Wu",
                 "links":{
-                    "PDF": "",
-                    "ArXiv": "",
+                    "PDF": "https://arxiv.org/pdf/2503.02639",
+                    "ArXiv": "https://arxiv.org/abs/2503.02639",
                     "ACM Library":""
                 },
                 "image":"image/xavier.png"
@@ -65,7 +65,8 @@
                 "links":{
                     "PDF": "paper/hai-survey.pdf",
                     "ArXiv": "https://arxiv.org/abs/2309.15723",
-                    "Browser": "https://human-ai-universe.github.io/data-storytelling",
+                    "Browser (Updated)": "https://human-ai.notion.site/data-storytelling-dec-2024",
+                    "Update 2025": "https://arxiv.org/abs/2503.02631",
                     "Talk": "https://youtu.be/FZWv8Imx_S0",
                     "ACM Library": "https://doi.org/10.1145/3613904.3642726"
                 },
