@@ -46,6 +46,17 @@
                 "image":"image/xavier.png"
             },
             {
+                "title": "Prompting Generative AI with Interaction-Augmented Instructions",
+                "booktitle": "Extended Abstracts of the 2025 CHI Conference on Human Factors in Computing Systems (CHI 2025).",
+                "authors": "Leixian Shen, <b>Haotian Li</b>, Yifang Wang, Xing Xie, Huamin Qu",
+                "links": {
+                    "PDF": "https://arxiv.org/pdf/2503.02874",
+                    "ArXiv": "https://arxiv.org/abs/2503.02874",
+                    "ACM Library": ""
+                },
+                "image": "image/interaction-prompt.png"
+            },
+            {
                 "title": "Narrative Player: Reviving Data Narratives with Visuals",
                 "booktitle": "IEEE Transactions on Visualization and Computer Graphics.",
                 "authors": "Zekai Shao, Leixian Shen, <b>Haotian Li</b>, Yi Shan, Huamin Qu, Yun Wang, Siming Chen",
