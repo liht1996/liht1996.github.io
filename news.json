@@ -1,6 +1,10 @@
 {
     "data": [
         {
+            "Date": "2025-03-05",
+            "Content": "We release an updated data storytelling tool <a href='https://human-ai.notion.site/data-storytelling-dec-2024' target='_blank' style='color:black'><u>corpus</u></a> labeled by our <a href='https://doi.org/10.1145/3613904.3642726' target='_blank' style='color:black'><u>human-AI collaboration framework</u></a>, together with a 'sequel' <a href='https://arxiv.org/abs/2503.02631' target='_blank' style='color:black'><u>paper</u></a>."
+        },
+        {
             "Date": "2025-03-01",
             "Content": "Happy to share that we have four full papers about human-AI collaboration in screenwriting, data storytelling, and data science accepted to CHI 2025! "
         },
