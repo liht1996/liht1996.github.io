@@ -2,6 +2,17 @@
     "data":{
         "2025":[
             {
+                "title": "Why is AI not a Panacea for Data Workers? An Interview Study on Human-AI Collaboration in Data Storytelling",
+                "booktitle": "IEEE Transactions on Visualization and Computer Graphics.",
+                "authors": "<b>Haotian Li</b>, Yun Wang, Q. Vera Liao, Huamin Qu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2304.08366",
+                    "ArXiv": "https://arxiv.org/abs/2304.08366",
+                    "IEEE Xplore": "https://ieeexplore.ieee.org/document/10930704/"
+                },
+                "image":"image/hai-interview.png"
+            },
+            {
                 "title": "Understanding Screenwriters' Practices, Attitudes, and Future Expectations in Human-AI Co-Creation",
                 "booktitle": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI 2025).",
                 "authors": "Yuying Tang, <b>Haotian Li</b>, Minghe Lan, Xiaojuan Ma, Huamin Qu",
@@ -395,16 +406,6 @@
             }
         ],
         "Preprint":[
-            {
-                "title": "Why is AI not a Panacea for Data Workers? An Interview Study on Human-AI Collaboration in Data Storytelling",
-                "booktitle": "ArXiv",
-                "authors": "<b>Haotian Li</b>, Yun Wang, Q. Vera Liao, Huamin Qu",
-                "links":{
-                    "PDF": "https://arxiv.org/pdf/2304.08366",
-                    "ArXiv": "https://arxiv.org/abs/2304.08366"
-                },
-                "image":"image/hai-interview.png"
-            },
             {
                 "title": "Composing Data Stories with Meta Relations",
                 "booktitle": "ArXiv",
