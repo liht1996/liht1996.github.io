@@ -68,6 +68,17 @@
                 "image": "image/interaction-prompt.png"
             },
             {
+                "title": "JailbreakHunter: A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets",
+                "booktitle": "IEEE Transactions on Visualization and Computer Graphics.",
+                "authors": "Zhihua Jin, Shiyi Liu, <b>Haotian Li</b>, Xun Zhao, Huamin Qu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2407.03045",
+                    "ArXiv": "https://arxiv.org/abs/2407.03045",
+                    "IEEE Xplore": "https://ieeexplore.ieee.org/document/10963705"
+                },
+                "image":"image/jailbreakhunter.png"
+            },
+            {
                 "title": "Narrative Player: Reviving Data Narratives with Visuals",
                 "booktitle": "IEEE Transactions on Visualization and Computer Graphics.",
                 "authors": "Zekai Shao, Leixian Shen, <b>Haotian Li</b>, Yi Shan, Huamin Qu, Yun Wang, Siming Chen",
@@ -415,16 +426,6 @@
                     "ArXiv": "https://arxiv.org/abs/2501.03603"
                 },
                 "image":"image/remex.png"
-            },
-            {
-                "title": "JailbreakHunter: A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets",
-                "booktitle": "ArXiv",
-                "authors": "Zhihua Jin, Shiyi Liu, <b>Haotian Li</b>, Xun Zhao, Huamin Qu",
-                "links":{
-                    "PDF": "https://arxiv.org/pdf/2407.03045",
-                    "ArXiv": "https://arxiv.org/abs/2407.03045"
-                },
-                "image":"image/jailbreakhunter.png"
             }
         ],
         "Before 2019":[
