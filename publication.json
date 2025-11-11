@@ -13,6 +13,17 @@
                 "image":"image/hai-interview.png"
             },
             {
+                "title": "Reflection on Data Storytelling Tools in the Generative AI Era from the Human-AI Collaboration Perspective",
+                "booktitle": "Proceedings of the 2025 IEEE Visualization Conference (VIS 2025).",
+                "authors": "<b>Haotian Li</b>, Yun Wang, Huamin Qu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2503.02631",
+                    "ArXiv": "https://arxiv.org/abs/2503.02631",
+                    "Browser": "https://human-ai.notion.site/data-storytelling-dec-2024"
+                },
+                "image":"image/reflection-hai.png"
+            },
+            {
                 "title": "Understanding Screenwriters' Practices, Attitudes, and Future Expectations in Human-AI Co-Creation",
                 "booktitle": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI 2025).",
                 "authors": "Yuying Tang, <b>Haotian Li</b>, Minghe Lan, Xiaojuan Ma, Huamin Qu",
@@ -417,6 +428,26 @@
             }
         ],
         "Preprint":[
+            {
+                "title": "Interaction-Augmented Instruction: Modeling the Synergy of Prompts and Interactions in Human-GenAI Collaboration",
+                "booktitle": "ArXiv",
+                "authors": "Leixian Shen, Yifang Wang, Huamin Qu, Xing Xie, <b>Haotian Li</b>",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2510.26069",
+                    "ArXiv": "https://arxiv.org/abs/2510.26069"
+                },
+                "image":"image/iai.png"
+            },
+            {
+                "title": " How Does Empirical Research Facilitate Creation Tool Design? A Data Video Perspective",
+                "booktitle": "ArXiv",
+                "authors": "Leixian Shen, Leni Yang, <b>Haotian Li</b>, Yun Wang, Yuyu Luo, Huamin Qu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2507.15244",
+                    "ArXiv": "https://arxiv.org/abs/2507.15244"
+                },
+                "image":"image/empirical-tool.png"
+            },
             {
                 "title": "Composing Data Stories with Meta Relations",
                 "booktitle": "ArXiv",
