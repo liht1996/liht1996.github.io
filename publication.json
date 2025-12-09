@@ -434,7 +434,8 @@
                 "authors": "Leixian Shen, Yifang Wang, Huamin Qu, Xing Xie, <b>Haotian Li</b>",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2510.26069",
-                    "ArXiv": "https://arxiv.org/abs/2510.26069"
+                    "ArXiv": "https://arxiv.org/abs/2510.26069",
+                    "Browser": "https://interaction-augmented-instruction.github.io/"
                 },
                 "image":"image/iai.png"
             },
