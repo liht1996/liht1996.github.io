@@ -1,5 +1,57 @@
 {
     "data":{
+        "2026":[
+            {
+                "title": "Interaction-Augmented Instruction: Modeling the Synergy of Prompts and Interactions in Human-GenAI Collaboration",
+                "booktitle": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026). <i>(Conditionally Accepted)</i>",
+                "authors": "Leixian Shen, Yifang Wang, Huamin Qu, Xing Xie, <b>Haotian Li<sup>&dagger;</sup></b>",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2510.26069",
+                    "ArXiv": "https://arxiv.org/abs/2510.26069",
+                    "Browser": "https://interaction-augmented-instruction.github.io/"
+                },
+                "image":"image/iai.png"
+            },
+            {
+                "title": "How Do Human Creators Embrace Human-AI Co-Creation? A Perspective on Human Agency of Screenwriters",
+                "booktitle": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026). <i>(Conditionally Accepted)</i>",
+                "authors": "Yuying Tang, Jiayi Zhou, <b>Haotian Li<sup>&dagger;</sup></b>, Xing Xie, Xiaojuan Ma, Huamin Qu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2602.06327",
+                    "ArXiv": "https://arxiv.org/abs/2602.06327"
+                },
+                "image":"image/screenwriter-agency.png"
+            },
+            {
+                "title": "DuoDrama: Supporting Screenplay Refinement Through LLM-Assisted Human Reflection",
+                "booktitle": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026). <i>(Conditionally Accepted)</i>",
+                "authors": "Yuying Tang, Xinyi Chen, <b>Haotian Li<sup>&dagger;</sup></b>, Xing Xie, Xiaojuan Ma, Huamin Qu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2602.05854",
+                    "ArXiv": "https://arxiv.org/abs/2602.05854"
+                },
+                "image":"image/duodrama.png"
+            },
+            {
+                "title": "From Passive Consumption to Active Interaction: Exploring Interactive LLM Scaffolding to Support Learning Engagement",
+                "booktitle": "Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026). <i>(Accepted)</i>",
+                "authors": "Zixin Chen, <b>Haotian Li</b>, Zhe Liu, Huamin Qu, Xing Xie",
+                "links":{
+                    "PDF": ""
+                },
+                "image":"image/interactive-scaffolding.png"
+            },
+            {
+                "title": "StoryLensEdu: Personalized Learning Report Generation through Narrative-Driven Multi-Agent Systems",
+                "booktitle": "Proceedings of the 2026 IEEE Pacific Visualization Conference (PacificVis 2026). <i>(Accepted)</i>",
+                "authors": "Leixian Shen, Yan Luo, Rui Sheng, Yujia He, <b>Haotian Li</b>, Leni Yang, Huamin Qu",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2602.17067",
+                    "ArXiv": "https://arxiv.org/abs/2602.17067"
+                },
+                "image":"image/storylensedu.png"
+            }
+        ],
         "2025":[
             {
                 "title": "Why is AI not a Panacea for Data Workers? An Interview Study on Human-AI Collaboration in Data Storytelling",
@@ -14,19 +66,20 @@
             },
             {
                 "title": "Reflection on Data Storytelling Tools in the Generative AI Era from the Human-AI Collaboration Perspective",
-                "booktitle": "Proceedings of the 2025 IEEE Visualization Conference (VIS 2025).",
+                "booktitle": "Proceedings of the 2025 IEEE Visualization and Visual Analytics Conference (VIS 2025).",
                 "authors": "<b>Haotian Li</b>, Yun Wang, Huamin Qu",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2503.02631",
                     "ArXiv": "https://arxiv.org/abs/2503.02631",
-                    "Browser": "https://human-ai.notion.site/data-storytelling-dec-2024"
+                    "Browser": "https://human-ai.notion.site/data-storytelling-dec-2024",
+                    "IEEE Xplore": "https://ieeexplore.ieee.org/document/11298764"
                 },
                 "image":"image/reflection-hai.png"
             },
             {
                 "title": "Understanding Screenwriters' Practices, Attitudes, and Future Expectations in Human-AI Co-Creation",
                 "booktitle": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI 2025).",
-                "authors": "Yuying Tang, <b>Haotian Li</b>, Minghe Lan, Xiaojuan Ma, Huamin Qu",
+                "authors": "Yuying Tang, <b>Haotian Li<sup>&dagger;</sup></b>, Minghe Lan, Xiaojuan Ma, Huamin Qu",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2502.16153",
                     "ArXiv": "https://arxiv.org/abs/2502.16153",
@@ -37,7 +90,7 @@
             {
                 "title": "Reflecting on Design Paradigms of Animated Data Video Tools",
                 "booktitle": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI 2025).",
-                "authors": "Leixian Shen, <b>Haotian Li</b>, Yun Wang, Huamin Qu",
+                "authors": "Leixian Shen, <b>Haotian Li<sup>&dagger;</sup></b>, Yun Wang<sup>&dagger;</sup>, Huamin Qu",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2502.04801",
                     "ArXiv": "https://arxiv.org/abs/2502.04801",
@@ -119,7 +172,7 @@
             {
                 "title": "Inferring Visualization Intent from Conversation",
                 "booktitle": "Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024).",
-                "authors": "<b>Haotian Li</b>*, Nithin Chalapathi*, Huamin Qu, Alvin Cheung, Aditya G Parameswaran (*: equal contribution)",
+                "authors": "<b>Haotian Li<sup>*</sup></b>, Nithin Chalapathi<sup>*</sup>, Huamin Qu, Alvin Cheung, Aditya G Parameswaran (*: equal contribution)",
                 "links":{
                     "PDF": "paper/lunar.pdf",
                     "ACM Library": "https://dl.acm.org/doi/abs/10.1145/3627673.3679589"
@@ -429,15 +482,14 @@
         ],
         "Preprint":[
             {
-                "title": "Interaction-Augmented Instruction: Modeling the Synergy of Prompts and Interactions in Human-GenAI Collaboration",
+                "title": "To Think or Not To Think, That is The Question for Large Reasoning Models in Theory of Mind Tasks",
                 "booktitle": "ArXiv",
-                "authors": "Leixian Shen, Yifang Wang, Huamin Qu, Xing Xie, <b>Haotian Li</b>",
+                "authors": "Nanxu Gong, <b>Haotian Li<sup>&dagger;</sup></b>, Sixun Dong, Jianxun Lian, Yanjie Fu, Xing Xie",
                 "links":{
-                    "PDF": "https://arxiv.org/pdf/2510.26069",
-                    "ArXiv": "https://arxiv.org/abs/2510.26069",
-                    "Browser": "https://interaction-augmented-instruction.github.io/"
+                    "PDF": "https://arxiv.org/pdf/2602.10625",
+                    "ArXiv": "https://arxiv.org/abs/2602.10625"
                 },
-                "image":"image/iai.png"
+                "image":"image/reasoning.png"
             },
             {
                 "title": " How Does Empirical Research Facilitate Creation Tool Design? A Data Video Perspective",

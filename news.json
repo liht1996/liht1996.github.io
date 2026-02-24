@@ -1,6 +1,10 @@
 {
     "data": [
         {
+            "Date": "2026-02-10",
+            "Content": "<a style='color:red'>I am looking for HCI research interns to work on designing human-AI interaction and understanding its impacts (please see my latest publications for detailed topics). If you are interested, please email me with your CV, a brief intro, and your availability.</a>"
+        },
+        {
             "Date": "2025-03-05",
             "Content": "We release an updated data storytelling tool <a href='https://human-ai.notion.site/data-storytelling-dec-2024' target='_blank' style='color:black'><u>corpus</u></a> labeled by our <a href='https://doi.org/10.1145/3613904.3642726' target='_blank' style='color:black'><u>human-AI collaboration framework</u></a>, together with a 'sequel' <a href='https://arxiv.org/abs/2503.02631' target='_blank' style='color:black'><u>paper</u></a>."
         },
