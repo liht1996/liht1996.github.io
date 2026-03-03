@@ -3,7 +3,7 @@
         "2026":[
             {
                 "title": "Interaction-Augmented Instruction: Modeling the Synergy of Prompts and Interactions in Human-GenAI Collaboration",
-                "booktitle": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026). <i>(Conditionally Accepted)</i>",
+                "booktitle": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026). <i>(Accepted)</i>",
                 "authors": "Leixian Shen, Yifang Wang, Huamin Qu, Xing Xie, <b>Haotian Li<sup>&dagger;</sup></b>",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2510.26069",
@@ -14,7 +14,7 @@
             },
             {
                 "title": "How Do Human Creators Embrace Human-AI Co-Creation? A Perspective on Human Agency of Screenwriters",
-                "booktitle": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026). <i>(Conditionally Accepted)</i>",
+                "booktitle": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026). <i>(Accepted)</i>",
                 "authors": "Yuying Tang, Jiayi Zhou, <b>Haotian Li<sup>&dagger;</sup></b>, Xing Xie, Xiaojuan Ma, Huamin Qu",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2602.06327",
@@ -24,7 +24,7 @@
             },
             {
                 "title": "DuoDrama: Supporting Screenplay Refinement Through LLM-Assisted Human Reflection",
-                "booktitle": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026). <i>(Conditionally Accepted)</i>",
+                "booktitle": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026). <i>(Accepted)</i>",
                 "authors": "Yuying Tang, Xinyi Chen, <b>Haotian Li<sup>&dagger;</sup></b>, Xing Xie, Xiaojuan Ma, Huamin Qu",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2602.05854",
