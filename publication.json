@@ -3,7 +3,7 @@
         "2026":[
             {
                 "title": "Interaction-Augmented Instruction: Modeling the Synergy of Prompts and Interactions in Human-GenAI Collaboration",
-                "booktitle": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026). <i>(Accepted)</i>",
+                "booktitle": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026). <i>(Accepted)</i> <br><p style='color:#cb181d'><i class='fa-solid fa-award'></i> Best Paper Honorable Mention</p>",
                 "authors": "Leixian Shen, Yifang Wang, Huamin Qu, Xing Xie, <b>Haotian Li<sup>&dagger;</sup></b>",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2510.26069",
