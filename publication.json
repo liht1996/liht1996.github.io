@@ -37,7 +37,8 @@
                 "booktitle": "Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026). <i>(Accepted)</i>",
                 "authors": "Zixin Chen, <b>Haotian Li</b>, Zhe Liu, Huamin Qu, Xing Xie",
                 "links":{
-                    "PDF": ""
+                    "PDF": "https://arxiv.org/pdf/2603.07277",
+                    "ArXiv": "https://arxiv.org/abs/2603.07277"
                 },
                 "image":"image/interactive-scaffolding.png"
             },
