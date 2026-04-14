@@ -8,7 +8,8 @@
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2510.26069",
                     "ArXiv": "https://arxiv.org/abs/2510.26069",
-                    "Browser": "https://interaction-augmented-instruction.github.io/"
+                    "Browser": "https://interaction-augmented-instruction.github.io/",
+                    "ACM Library": "https://dl.acm.org/doi/10.1145/3772318.3790505"
                 },
                 "image":"image/iai.png"
             },
@@ -18,7 +19,8 @@
                 "authors": "Yuying Tang, Jiayi Zhou, <b>Haotian Li<sup>&dagger;</sup></b>, Xing Xie, Xiaojuan Ma, Huamin Qu",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2602.06327",
-                    "ArXiv": "https://arxiv.org/abs/2602.06327"
+                    "ArXiv": "https://arxiv.org/abs/2602.06327",
+                    "ACM Library": "https://dl.acm.org/doi/10.1145/3772318.3790300"
                 },
                 "image":"image/screenwriter-agency.png"
             },
@@ -28,7 +30,8 @@
                 "authors": "Yuying Tang, Xinyi Chen, <b>Haotian Li<sup>&dagger;</sup></b>, Xing Xie, Xiaojuan Ma, Huamin Qu",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2602.05854",
-                    "ArXiv": "https://arxiv.org/abs/2602.05854"
+                    "ArXiv": "https://arxiv.org/abs/2602.05854",
+                    "ACM Library": "https://dl.acm.org/doi/10.1145/3772318.3790568"
                 },
                 "image":"image/duodrama.png"
             },
@@ -38,7 +41,8 @@
                 "authors": "Zixin Chen, <b>Haotian Li</b>, Zhe Liu, Huamin Qu, Xing Xie",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2603.07277",
-                    "ArXiv": "https://arxiv.org/abs/2603.07277"
+                    "ArXiv": "https://arxiv.org/abs/2603.07277",
+                    "ACM Library": "https://dl.acm.org/doi/10.1145/3772363.3798931"
                 },
                 "image":"image/interactive-scaffolding.png"
             },
@@ -482,6 +486,28 @@
             }
         ],
         "Preprint":[
+            {
+                "title": "Figures as Interfaces: Toward LLM-Native Artifacts for Scientific Discovery",
+                "booktitle": "ArXiv",
+                "authors": "Yifang Wang, Rui Sheng, Erzhuo Shao, Yifan Qian, <b>Haotian Li</b>, Nan Cao, Dashun Wang",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2604.08491",
+                    "ArXiv": "https://arxiv.org/abs/2604.08491",
+                    "Homepage": "http://llm-native-figure.com/"
+                },
+                "image":"image/llm-native-figure.png"
+            },
+            {
+                "title": "Social-R1: Towards Human-like Social Reasoning in LLMs",
+                "booktitle": "ArXiv",
+                "authors": "Jincenzi Wu, Yuxuan Lei, Jianxun Lian, Yitian Huang, Lexin Zhou, <b>Haotian Li</b>, Xing Xie, Helen Meng",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2603.09249",
+                    "ArXiv": "https://arxiv.org/abs/2603.09249",
+                    "Homepage": "http://llm-native-figure.com/"
+                },
+                "image":"image/social-r1.png"
+            },
             {
                 "title": "To Think or Not To Think, That is The Question for Large Reasoning Models in Theory of Mind Tasks",
                 "booktitle": "ArXiv",
