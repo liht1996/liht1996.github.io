@@ -36,6 +36,16 @@
                 "image":"image/duodrama.png"
             },
             {
+                "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
+                "booktitle": "Findings of the Association for Computational Linguistics: ACL 2026 (ACL Findings 2026). <i>(Accepted)</i>",
+                "authors": "Nanxu Gong, Zixin Chen, <b>Haotian Li<sup>&dagger;</sup></b>, Zishu Zhao, Jianxun Lian, Huamin Qu, Yanjie Fu, Xing Xie",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2605.15205",
+                    "ArXiv": "https://arxiv.org/abs/2605.15205"
+                },
+                "image":"image/tom-hai-2.png"
+            },
+            {
                 "title": "From Passive Consumption to Active Interaction: Exploring Interactive LLM Scaffolding to Support Learning Engagement",
                 "booktitle": "Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026).",
                 "authors": "Zixin Chen, <b>Haotian Li</b>, Zhe Liu, Huamin Qu, Xing Xie",
@@ -486,6 +496,16 @@
             }
         ],
         "Preprint":[
+            {
+                "title": "Multi-agent AI Systems Outperform Human Teams in Creativity",
+                "booktitle": "ArXiv",
+                "authors": "Tiancheng Hu, Yixuan Jiang, <b>Haotian Li</b>, José Hernández-Orallo, Xing Xie, Nigel Collier, David Stillwell, Luning Sun",
+                "links":{
+                    "PDF": "https://arxiv.org/abs/2605.17885",
+                    "ArXiv": "https://arxiv.org/abs/2605.17885"
+                },
+                "image":"image/multi-agent-creativity.png"
+            },
             {
                 "title": "Figures as Interfaces: Toward LLM-Native Artifacts for Scientific Discovery",
                 "booktitle": "ArXiv",
