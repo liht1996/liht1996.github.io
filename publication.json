@@ -37,11 +37,12 @@
             },
             {
                 "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
-                "booktitle": "Findings of the Association for Computational Linguistics: ACL 2026 (ACL Findings 2026). <i>(Accepted)</i>",
+                "booktitle": "Findings of the Association for Computational Linguistics: ACL 2026 (ACL Findings 2026).",
                 "authors": "Nanxu Gong, Zixin Chen, <b>Haotian Li<sup>&dagger;</sup></b>, Zishu Zhao, Jianxun Lian, Huamin Qu, Yanjie Fu, Xing Xie",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2605.15205",
-                    "ArXiv": "https://arxiv.org/abs/2605.15205"
+                    "ArXiv": "https://arxiv.org/abs/2605.15205",
+                    "ACL Anthology": "https://aclanthology.org/2026.findings-acl.2125/"
                 },
                 "image":"image/tom-hai-2.png"
             },
@@ -58,11 +59,12 @@
             },
             {
                 "title": "StoryLensEdu: Personalized Learning Report Generation through Narrative-Driven Multi-Agent Systems",
-                "booktitle": "Proceedings of the 2026 IEEE Pacific Visualization Conference (PacificVis 2026). <i>(Accepted)</i>",
+                "booktitle": "Proceedings of the 2026 IEEE Pacific Visualization Conference (PacificVis 2026).",
                 "authors": "Leixian Shen, Yan Luo, Rui Sheng, Yujia He, <b>Haotian Li</b>, Leni Yang, Huamin Qu",
                 "links":{
                     "PDF": "https://arxiv.org/pdf/2602.17067",
-                    "ArXiv": "https://arxiv.org/abs/2602.17067"
+                    "ArXiv": "https://arxiv.org/abs/2602.17067",
+                    "IEEE Xplore": "https://ieeexplore.ieee.org/document/11558655/"
                 },
                 "image":"image/storylensedu.png"
             }
