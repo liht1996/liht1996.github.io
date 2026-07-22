@@ -499,11 +499,21 @@
         ],
         "Preprint":[
             {
+                "title": "Informal Learning Emerges in Everyday Human-LLM Interaction",
+                "booktitle": "ArXiv",
+                "authors": "Zixin Chen, <b>Haotian Li<sup>&dagger;</sup></b>, Ziang Xiao, Huamin Qu, Xing Xie",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2607.17643",
+                    "ArXiv": "https://arxiv.org/abs/2607.17643"
+                },
+                "image":"image/informal-learning.png"
+            },
+            {
                 "title": "Multi-agent AI Systems Outperform Human Teams in Creativity",
                 "booktitle": "ArXiv",
                 "authors": "Tiancheng Hu, Yixuan Jiang, <b>Haotian Li</b>, José Hernández-Orallo, Xing Xie, Nigel Collier, David Stillwell, Luning Sun",
                 "links":{
-                    "PDF": "https://arxiv.org/abs/2605.17885",
+                    "PDF": "https://arxiv.org/pdf/2605.17885",
                     "ArXiv": "https://arxiv.org/abs/2605.17885"
                 },
                 "image":"image/multi-agent-creativity.png"
