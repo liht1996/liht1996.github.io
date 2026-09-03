@@ -499,6 +499,16 @@
         ],
         "Preprint":[
             {
+                "title": "Live Artifacts: Authoring Dynamic Media via Live Layers Encapsulating Generative Specifications",
+                "booktitle": "ArXiv",
+                "authors": "Leixian Shen, <b>Haotian Li</b>, Hugo Romat, Fanny Chevalier, Nicolai Marquardt, Nathalie Riche",
+                "links":{
+                    "PDF": "https://arxiv.org/pdf/2608.20880",
+                    "ArXiv": "https://arxiv.org/abs/2608.20880"
+                },
+                "image":"image/live-artifacts-2.png"
+            },
+            {
                 "title": "Informal Learning Emerges in Everyday Human-LLM Interaction",
                 "booktitle": "ArXiv",
                 "authors": "Zixin Chen, <b>Haotian Li<sup>&dagger;</sup></b>, Ziang Xiao, Huamin Qu, Xing Xie",
