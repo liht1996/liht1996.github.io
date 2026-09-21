@@ -67,6 +67,16 @@
                     "IEEE Xplore": "https://ieeexplore.ieee.org/document/11558655/"
                 },
                 "image":"image/storylensedu.png"
+            },
+            {
+                "title": "Situated and Dynamic Human-AI Communication through Generative Interaction-Augmented Instruction at Runtime",
+                "booktitle": "CHI2026 Workshop on Generative UI for HCI Practice.",
+                "authors": "<b>Haotian Li</b>, Leixian Shen, Yifang Wang",
+                "links":{
+                    "PDF": "geniai.pdf",
+                    "Workshop Page": "https://genuimeetshci.github.io/chi26-workshop/proposals/situated_dynamic_geniai_runtime_chi26_workshop.pdf"
+                },
+                "image":"image/geniai.png"
             }
         ],
         "2025":[
